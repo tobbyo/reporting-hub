@@ -32,7 +32,7 @@ Currently supports secure **Excel workbook merging** with customizable sheet nam
 ### Prerequisites
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - IIS with ASP.NET Core Hosting Bundle (for on-prem deployment)
-- Visual Studio / VS Code (optional for dev)
+- Visual Studio / VS Code (optional)
 
 ### Local Run
 ```bash
